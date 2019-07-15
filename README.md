@@ -107,8 +107,8 @@ if __name__ == '__main__':
 ```
 
 ### Related
-[Barcode reader with Python, OpenCV and Pyzbar](https://cvisiondemy.com/barcode-reader-with-python-opencv-and-pyzbar/)
-[Barcode and QR code Scanner using ZBar and OpenCV](https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/)
+* [Barcode reader with Python, OpenCV and Pyzbar](https://cvisiondemy.com/barcode-reader-with-python-opencv-and-pyzbar/)
+* [Barcode and QR code Scanner using ZBar and OpenCV](https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/)
 
 
 
