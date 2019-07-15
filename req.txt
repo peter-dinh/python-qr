@@ -1,0 +1,9 @@
+numpy==1.16.4
+opencv-python==4.1.0.25
+Pillow==6.0.0
+pymaging==0.1
+pypng==0.0.19
+PyQRCode==1.2.1
+python-thumbnails==0.5.1
+pyzbar==0.1.8
+qrcode==6.1
